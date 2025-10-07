@@ -4,9 +4,9 @@
 - Group Name: Gay-Enemy
 - Members:
   
-  Lamboson, Jaycel L.
+  ### Lamboson, Jaycel L.
   
-  Manlolo, Noel Alexis C.
+  ### Manlolo, Noel Alexis C.
   
 - Assigned Theme: Wether
 - Topic: Phillippines Monthly Typhoon Trend (2014-2024)
