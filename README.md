@@ -68,8 +68,7 @@ This pairplot explores the relationships among the year, month, and number of ty
 
 The scatter relationships indicate that typhoon counts vary seasonally but remain relatively consistent across the decade.
 
-
-
+---
 
 ### Visualization 5: Correlation Matrix of Numeric Variables
 This heatmap displays correlations among numeric variables such as year, month, and number of typhoons. It helps determine which variables are most related to one another.
