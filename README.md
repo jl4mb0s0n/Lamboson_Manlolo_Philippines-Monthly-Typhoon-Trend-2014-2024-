@@ -38,5 +38,7 @@ This histogram shows how the total number of typhoons changed each year from 201
 
 The distribution indicates that most years experience a moderate number of typhoons, with occasional peaks showing particularly active years.
 
+### Visualization 2: KDE Plot of Monthly Typhoon Frequency
+
 
 ## 5. Key Insights
