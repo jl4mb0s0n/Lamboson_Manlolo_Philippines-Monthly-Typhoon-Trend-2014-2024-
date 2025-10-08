@@ -41,6 +41,7 @@ The distribution indicates that most years experience a moderate number of typho
 ### Visualization 2: KDE Plot of Monthly Typhoon Frequency
 This Kernel Density Estimate (KDE) plot highlights the distribution of monthly typhoon occurrences. It helps identify months with the highest likelihood of typhoon activity.
 
-
+<p align="center">
+<img src="" width="400">
 
 ## 5. Key Insights
