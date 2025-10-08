@@ -8,7 +8,7 @@
   
   ### Manlolo, Noel Alexis C.
   
-- Assigned Theme: Wether
+- Assigned Theme: Weather
 - Topic: Phillippines Monthly Typhoon Trend (2014-2024)
 
 ## 2. Project Overview
