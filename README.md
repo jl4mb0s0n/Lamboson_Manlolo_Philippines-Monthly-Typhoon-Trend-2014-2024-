@@ -30,4 +30,7 @@ The preprocessing techniques that was use are:
 
 ## 4. Visualizations
 
+### Visualization 1: Histogram of Typhoon Counts per Year
+
+
 ## 5. Key Insights
