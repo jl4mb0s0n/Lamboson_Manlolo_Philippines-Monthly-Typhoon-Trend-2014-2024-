@@ -1,7 +1,7 @@
 # Lamboson_Manlolo_Philippines Monthly Typhoon Trend (2014-2024)
 
 ## 1. Group Information
-- Group Name: Gay-Enemy
+- Group Name: Cloud Breakers
 - Members:
   
    Lamboson, Jaycel L.
