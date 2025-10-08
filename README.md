@@ -16,12 +16,14 @@
 - Source (URL or reference): Source: https://www.kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024
 - License/Attribution:
   
-  <p align="justify">
-This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
+<p align="justify">
+    This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
 </p>
 
 - Objective: (1–2 sentences about what you want to show with this dataset)
+<p align="justify">
 
+</p>
 ## 3. Preprocessing Summary
 The preprocessing techniques that was use are:
 1. Data Cleaning
