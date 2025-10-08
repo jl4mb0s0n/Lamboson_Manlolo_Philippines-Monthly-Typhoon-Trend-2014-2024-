@@ -16,8 +16,8 @@
 - Source (URL or reference): Source: https://www.kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024
 - License/Attribution:
   
-<p align="justify">
-    This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
+<p align="justify" style="text-indent: 40px;">
+This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
 </p>
 
 - Objective: (1–2 sentences about what you want to show with this dataset)
