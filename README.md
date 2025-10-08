@@ -38,6 +38,8 @@ This histogram shows how the total number of typhoons changed each year from 201
 
 The distribution indicates that most years experience a moderate number of typhoons, with occasional peaks showing particularly active years.
 
+---
+
 ### Visualization 2: KDE Plot of Monthly Typhoon Frequency
 This Kernel Density Estimate (KDE) plot highlights the distribution of monthly typhoon occurrences. It helps identify months with the highest likelihood of typhoon activity.
 
@@ -45,6 +47,8 @@ This Kernel Density Estimate (KDE) plot highlights the distribution of monthly t
 <img src="https://github.com/user-attachments/assets/49824b4d-b3fd-4852-89a2-7da8d610f412" width="800">
   
 The density curve shows that typhoon frequency increases during mid to late months of the year, aligning with the wet season (around July to October).
+
+
 
 ### Visualization 3: Scatter Plot — Month vs. Typhoon Count
 This scatter plot displays the relationship between months and the number of typhoons recorded. It allows us to visually identify seasonal patterns and variability across months.
@@ -54,6 +58,8 @@ This scatter plot displays the relationship between months and the number of typ
   
 The plot clearly shows clustering around the mid-year months, suggesting that most typhoons occur between June and November.
 
+
+
 ### Visualization 4: Pairplot — Number of Typhoons, Month, and Year
 This pairplot explores the relationships among the year, month, and number of typhoons. It provides a multi-variable view that can reveal underlying trends or correlations.
 
@@ -61,6 +67,9 @@ This pairplot explores the relationships among the year, month, and number of ty
 <img src="https://github.com/user-attachments/assets/a49933b9-6b1d-471a-9a8a-72b1bad2bf31" width="800">
 
 The scatter relationships indicate that typhoon counts vary seasonally but remain relatively consistent across the decade.
+
+
+
 
 ### Visualization 5: Correlation Matrix of Numeric Variables
 This heatmap displays correlations among numeric variables such as year, month, and number of typhoons. It helps determine which variables are most related to one another.
@@ -70,6 +79,8 @@ This heatmap displays correlations among numeric variables such as year, month, 
 
 The correlation values show that month and typhoon count are somewhat related due to seasonality, while year has a weaker correlation, suggesting no clear long-term increase or decrease.
 
+
+
 ### Visualization 6: Missingness Plot
 This plot helps us identify if there are missing or incomplete data points in the dataset. By visualizing the presence of null values, we can determine whether the dataset is complete or needs cleaning before analysis.
 
@@ -77,6 +88,8 @@ This plot helps us identify if there are missing or incomplete data points in th
 <img src="https://github.com/user-attachments/assets/289f6fed-1471-4aab-bbd4-4ad32564c265" width="800">
 
 Based on the plot, there appear to be no missing or incomplete values — indicating that the dataset is clean and ready for analysis.
+
+
 
 ### Visualization 7: Typhoon Counts per Season (Wet vs Dry)
 This bar plot compares the total number of typhoons that occurred during the wet and dry seasons. It allows us to see which season experiences more typhoon activity in the Philippines.
@@ -86,6 +99,8 @@ This bar plot compares the total number of typhoons that occurred during the wet
 
 The wet season shows a significantly higher number of typhoons compared to the dry season, which aligns with the country’s typical climate pattern from June to November.
 
+
+
 ### Visualization 8: Distribution of Typhoons per Month Across Years
 This boxplot shows how the number of typhoons varies for each month from 2014 to 2024. It helps identify months with high variability or outliers, such as unusually strong typhoon seasons.
 
@@ -93,6 +108,8 @@ This boxplot shows how the number of typhoons varies for each month from 2014 to
 <img src="https://github.com/user-attachments/assets/d20e9202-f735-489b-916d-4b2d12463048" width="800">
 
 Months like July to October tend to have higher median values and more outliers, suggesting these are peak typhoon months, while February to May have fewer events.
+
+
 
 ### Visualization 9: Monthly Typhoon Counts Across 2014–2024
 This line plot displays how the number of typhoons has changed over time. It highlights upward or downward trends in typhoon frequency throughout the years.
@@ -102,6 +119,8 @@ This line plot displays how the number of typhoons has changed over time. It hig
 
 The plot suggests fluctuations in typhoon activity, with certain years (such as 2018 or 2020) experiencing slightly more typhoons, but overall, the trend remains relatively stable.
 
+
+
 ### Visualization 10: Clustering of Years by Typhoon Trends
 This clustering visualization groups years based on their total typhoon counts using K-Means. It helps us identify patterns, such as which years had similar levels of typhoon activity (low, moderate, or high).
 
@@ -109,5 +128,7 @@ This clustering visualization groups years based on their total typhoon counts u
 <img src="https://github.com/user-attachments/assets/a1c4d3b0-1fc3-436c-b973-2e813ebb8433" width="800">
 
 The clusters show clear distinctions among years with low, moderate, and high typhoon activity — indicating that some periods were more active than others in terms of storm frequency.
+
+
 
 ## 5. Key Insights
