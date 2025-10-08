@@ -54,5 +54,12 @@ This scatter plot displays the relationship between months and the number of typ
   
 The plot clearly shows clustering around the mid-year months, suggesting that most typhoons occur between June and November.
 
+### Visualization 4: Pairplot — Number of Typhoons, Month, and Year
+This pairplot explores the relationships among the year, month, and number of typhoons. It provides a multi-variable view that can reveal underlying trends or correlations.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a49933b9-6b1d-471a-9a8a-72b1bad2bf31" width="600">
+
+
 
 ## 5. Key Insights
