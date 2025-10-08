@@ -18,6 +18,8 @@
 - Objective: (1–2 sentences about what you want to show with this dataset)
 
 ## 3. Prerocessing Summary
+The preprocessing techniques that was use are:
+1. Data Cleaning
 
 ## 4. Visualizations
 
