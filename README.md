@@ -144,4 +144,5 @@ Barplot analysis confirms that over two-thirds of all typhoons occur during the 
 ### 4. Outliers and high variability are observed in mid-year months.
 Boxplot results reveal that months like July to October occasionally experience unusually high typhoon counts compared to other months.
 
-
+### 5. Clustering shows distinct groups of typhoon activity levels.
+K-Means analysis groups the years into low, moderate, and high-activity clusters, indicating that some years experienced notably more storms.
