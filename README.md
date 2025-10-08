@@ -70,4 +70,11 @@ This heatmap displays correlations among numeric variables such as year, month, 
 
 The correlation values show that month and typhoon count are somewhat related due to seasonality, while year has a weaker correlation, suggesting no clear long-term increase or decrease.
 
+### Visualization 6: Missingness Plot
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/289f6fed-1471-4aab-bbd4-4ad32564c265" width="800">
+
+
+
 ## 5. Key Insights
