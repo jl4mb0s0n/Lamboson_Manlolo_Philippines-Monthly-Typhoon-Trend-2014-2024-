@@ -12,10 +12,7 @@
 - Topic: Phillippines Monthly Typhoon Trend (2014-2024)
 
 ## 2. Project Overview
-- Dataset Title:
-  
-  ### Philippines Monthly Typhoon Trend (2014–2024)
-  
+- Dataset Title: Philippines Monthly Typhoon Trend (2014–2024)
 - Source (URL or reference): Source: https://www.kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024
 - License/Attribution:
   This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
