@@ -60,6 +60,13 @@ This pairplot explores the relationships among the year, month, and number of ty
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a49933b9-6b1d-471a-9a8a-72b1bad2bf31" width="600">
 
+The scatter relationships indicate that typhoon counts vary seasonally but remain relatively consistent across the decade.
+
+### Visualization 5: Correlation Matrix of Numeric Variables
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b83e5625-9eb3-4680-a886-e46678c4428d" width="800">
+
 
 
 ## 5. Key Insights
