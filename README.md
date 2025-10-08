@@ -78,7 +78,7 @@ This heatmap displays correlations among numeric variables such as year, month, 
 
 The correlation values show that month and typhoon count are somewhat related due to seasonality, while year has a weaker correlation, suggesting no clear long-term increase or decrease.
 
-
+---
 
 ### Visualization 6: Missingness Plot
 This plot helps us identify if there are missing or incomplete data points in the dataset. By visualizing the presence of null values, we can determine whether the dataset is complete or needs cleaning before analysis.
