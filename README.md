@@ -131,3 +131,10 @@ The clusters show clear distinctions among years with low, moderate, and high ty
 ---
 
 ## 5. Key Insights
+
+### 1. Typhoon activity is highly seasonal.
+Most typhoons occur between June and November, which aligns with the Philippines’ wet season, peaking around August to October.
+
+
+
+
