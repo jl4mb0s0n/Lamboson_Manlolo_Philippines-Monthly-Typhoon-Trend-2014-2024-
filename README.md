@@ -39,6 +39,8 @@ This histogram shows how the total number of typhoons changed each year from 201
 The distribution indicates that most years experience a moderate number of typhoons, with occasional peaks showing particularly active years.
 
 ### Visualization 2: KDE Plot of Monthly Typhoon Frequency
+This Kernel Density Estimate (KDE) plot highlights the distribution of monthly typhoon occurrences. It helps identify months with the highest likelihood of typhoon activity.
+
 
 
 ## 5. Key Insights
