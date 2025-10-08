@@ -98,7 +98,7 @@ This bar plot compares the total number of typhoons that occurred during the wet
 
 The wet season shows a significantly higher number of typhoons compared to the dry season, which aligns with the country’s typical climate pattern from June to November.
 
-
+---
 
 ### Visualization 8: Distribution of Typhoons per Month Across Years
 This boxplot shows how the number of typhoons varies for each month from 2014 to 2024. It helps identify months with high variability or outliers, such as unusually strong typhoon seasons.
