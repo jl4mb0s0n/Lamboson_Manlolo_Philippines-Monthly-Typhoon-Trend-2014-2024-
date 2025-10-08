@@ -32,5 +32,8 @@ The preprocessing techniques that was use are:
 
 ### Visualization 1: Histogram of Typhoon Counts per Year
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/17cea229-7a67-487c-9a02-cbc8973370be" width="800">
+
 
 ## 5. Key Insights
