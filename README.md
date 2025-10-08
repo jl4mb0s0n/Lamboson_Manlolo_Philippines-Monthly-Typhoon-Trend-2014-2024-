@@ -118,7 +118,7 @@ This line plot displays how the number of typhoons has changed over time. It hig
 
 The plot suggests fluctuations in typhoon activity, with certain years (such as 2018 or 2020) experiencing slightly more typhoons, but overall, the trend remains relatively stable.
 
-
+---
 
 ### Visualization 10: Clustering of Years by Typhoon Trends
 This clustering visualization groups years based on their total typhoon counts using K-Means. It helps us identify patterns, such as which years had similar levels of typhoon activity (low, moderate, or high).
