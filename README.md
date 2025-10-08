@@ -138,6 +138,9 @@ Most typhoons occur between June and November, which aligns with the Philippines
 ### 2. Yearly typhoon counts remain relatively stable.
 From 2014 to 2024, the total number of typhoons per year fluctuates slightly but shows no strong upward or downward trend overall.
 
+### 3. The wet season experiences significantly more typhoons than the dry season.
+Barplot analysis confirms that over two-thirds of all typhoons occur during the wet season, emphasizing its climatic impact.
+
 
 
 
