@@ -20,6 +20,10 @@
       This dataset was created and shared by Denver Magtibay on Kaggle. It is intended for public and educational use, and proper credit should be given to the original author when used or cited.
 </p>
 
+<p align="justify" style="text-indent: 40px;">
+This is your first sentence, and it starts with an indentation like in a normal paragraph. The rest of the text will still be justified across the line.
+</p>
+
 - Objective: (1–2 sentences about what you want to show with this dataset)
 <p align="justify">
 
