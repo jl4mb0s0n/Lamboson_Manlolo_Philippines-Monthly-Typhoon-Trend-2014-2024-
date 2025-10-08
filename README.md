@@ -46,5 +46,13 @@ This Kernel Density Estimate (KDE) plot highlights the distribution of monthly t
   
 The density curve shows that typhoon frequency increases during mid to late months of the year, aligning with the wet season (around July to October).
 
+### Visualization 3: Scatter Plot — Month vs. Typhoon Count
+This scatter plot displays the relationship between months and the number of typhoons recorded. It allows us to visually identify seasonal patterns and variability across months.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3b125742-0b81-4174-b7e4-2efe929d819a" width="800">
+  
+The plot clearly shows clustering around the mid-year months, suggesting that most typhoons occur between June and November.
+
 
 ## 5. Key Insights
