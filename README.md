@@ -128,6 +128,6 @@ This clustering visualization groups years based on their total typhoon counts u
 
 The clusters show clear distinctions among years with low, moderate, and high typhoon activity — indicating that some periods were more active than others in terms of storm frequency.
 
-
+---
 
 ## 5. Key Insights
