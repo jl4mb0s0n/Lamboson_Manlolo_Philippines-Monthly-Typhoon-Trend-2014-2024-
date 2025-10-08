@@ -42,6 +42,9 @@ The distribution indicates that most years experience a moderate number of typho
 This Kernel Density Estimate (KDE) plot highlights the distribution of monthly typhoon occurrences. It helps identify months with the highest likelihood of typhoon activity.
 
 <p align="center">
-<img src="" width="400">
+<img src="https://github.com/user-attachments/assets/49824b4d-b3fd-4852-89a2-7da8d610f412" width="800">
+  
+The density curve shows that typhoon frequency increases during mid to late months of the year, aligning with the wet season (around July to October).
+
 
 ## 5. Key Insights
