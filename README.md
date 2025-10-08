@@ -106,7 +106,7 @@ This boxplot shows how the number of typhoons varies for each month from 2014 to
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d20e9202-f735-489b-916d-4b2d12463048" width="800">
 
-Months like July to October tend to have higher median values and more outliers, suggesting these are peak typhoon months, while February to May have fewer events.
+Months like June to October tend to have higher median values and more outliers, suggesting these are peak typhoon months, while February to May have fewer events.
 
 ---
 
