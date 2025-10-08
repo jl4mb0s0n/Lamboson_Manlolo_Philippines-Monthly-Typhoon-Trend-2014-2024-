@@ -116,7 +116,7 @@ This line plot displays how the number of typhoons has changed over time. It hig
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a3720e7b-4621-4594-aa03-e5ab6cd50679" width="800">
 
-The plot suggests fluctuations in typhoon activity, with certain years (such as 2018 or 2020) experiencing slightly more typhoons, but overall, the trend remains relatively stable.
+The plot shows fluctuations in typhoon activity, with 2020 and 2024 experiencing the highest number of typhoons, while other years remain relatively stable.
 
 ---
 
