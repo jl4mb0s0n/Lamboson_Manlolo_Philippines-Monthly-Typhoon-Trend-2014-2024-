@@ -21,7 +21,7 @@
 The preprocessing techniques that was use are:
 1. Data Cleaning
 2. Data Transformation
-
+3. Data Reduction
 
 ## 4. Visualizations
 
