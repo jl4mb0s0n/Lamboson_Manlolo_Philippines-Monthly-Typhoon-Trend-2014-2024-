@@ -79,9 +79,13 @@ This plot helps us identify if there are missing or incomplete data points in th
 Based on the plot, there appear to be no missing or incomplete values — indicating that the dataset is clean and ready for analysis.
 
 ### Visualization 7: Typhoon Counts per Season (Wet vs Dry)
+This bar plot compares the total number of typhoons that occurred during the wet and dry seasons. It allows us to see which season experiences more typhoon activity in the Philippines.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4790561b-1a83-46da-b348-acc657caf829" width="800">
+
+The wet season shows a significantly higher number of typhoons compared to the dry season, which aligns with the country’s typical climate pattern from June to November.
+
 
 
 ## 5. Key Insights
