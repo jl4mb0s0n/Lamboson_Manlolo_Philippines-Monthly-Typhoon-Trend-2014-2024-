@@ -141,6 +141,7 @@ From 2014 to 2024, the total number of typhoons per year fluctuates slightly but
 ### 3. The wet season experiences significantly more typhoons than the dry season.
 Barplot analysis confirms that over two-thirds of all typhoons occur during the wet season, emphasizing its climatic impact.
 
-
+### 4. Outliers and high variability are observed in mid-year months.
+Boxplot results reveal that months like July to October occasionally experience unusually high typhoon counts compared to other months.
 
 
